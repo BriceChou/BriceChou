@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋 
 
-<!--
-**BriceChou/BriceChou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Mingliang Zhou, you can call me brice.
 
-Here are some ideas to get you started:
+- **Learning :** Front-End Development :zap: | Open-Source :fire:	
+- **Languages :** JavaScript(Typescript), ReactJS, Java
+- **Hobbies :** Reading Chinese classics books.
+- **Zhihu :** https://www.zhihu.com/people/MingliangZhou
+- **WechatID :** bricechou
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on `Trip.com Group Limited`.
+- 💬 Contact with `Wechat` or `Zhihu`.
+- 📫 How to reach me: `bricechou@gmail.com`
+
+Welcome to visit my home page: https://bricechou.github.io 
