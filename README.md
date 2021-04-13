@@ -8,7 +8,7 @@
 - **Zhihu :** https://www.zhihu.com/people/MingliangZhou
 - **WechatID :** bricechou
 
-- 🔭 I’m currently working on `Trip.com Group Limited`.
+- 🔭 I’m currently working on `JD.com Group`.
 - 💬 Contact with `Wechat` or `Zhihu`.
 - 📫 How to reach me: `bricechou@gmail.com`
 
